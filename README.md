@@ -10,3 +10,5 @@
 – Discussion of your B+ tree implementation approach.
 – Explination of why you chose certain fields to be searchable and which should not be.
 – Any known limitations or issues
+
+Link to video demonstrating functionality of program:
